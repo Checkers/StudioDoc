@@ -8,12 +8,12 @@
 
 | 姓名  | 称谓 | 技能 | 个人资料 |
 | ------------- | ------------- | ------------- | ------------- |
-| 陈国瑞(Jerry)  | 超级软件架构师  | Content Cell  | Content Cell  |
-| 周德龙(Sunny)  | 高级软件工程师  | Content Cell  | Content Cell  |
-| 徐昕冬(Tom)  | 高级软件工程师  | Content Cell  | Content Cell  |
-| 辛明明(Jacky)  | 高级软件工程师  | Content Cell  | Content Cell  |
-| 林波(Bob)  | 高级网站推广工程大师  | Content Cell  | Content Cell  |
-| 严功青(Pipi)  | 高级淘宝运营策划大神  | Content Cell  | Content Cell  |
+| 陈国瑞(Jerry)  | 超级软件架构师  |系统架构  | [立刻查看](http://codelife.cn "编程之路")  |
+| 周德龙(Sunny)  | 高级软件工程师  | 网站开发、手机端App开发  | [立刻查看](http://codelife.cn "编程之路")  |
+| 徐昕冬(Tom)  | 高级软件工程师  | 桌面软件开发、插件开发  | [立刻查看](http://codelife.cn "编程之路")  |
+| 辛明明(Jacky)  | 高级软件工程师  | 网站开发插件开发  | [立刻查看](http://codelife.cn "编程之路")  |
+| 林波(Bob)  | 高级网站推广工程大师  | 网站推广优化  | [立刻查看](http://codelife.cn "编程之路")  |
+| 严功青(Pipi)  | 高级运营策划大神  | 网站运营策划  | [立刻查看](http://codelife.cn "编程之路")  |
 
 二、业务范围
 -----
