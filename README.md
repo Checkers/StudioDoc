@@ -5,7 +5,7 @@
 
 一、团队成员
 -----
-    陈国瑞(Jerry) 超级软件架构师  [编程之路](http://www.codelife.cn)
+    陈国瑞(Jerry) 超级软件架构师
     
     周德龙(Sunny) 高级软件工程师 
     
@@ -32,7 +32,15 @@
 
 三、工作、盈利方式
 -----
+[我的博客](http://blog.csdn.net/guodongxiaren/article/details/23690801 "悬停显示")
+
 四、盈利平分方式
 -----
+:blush:
+
 五、招蜂引蝶
 -----
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
