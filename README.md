@@ -17,15 +17,15 @@
 
 二、业务范围
 -----
-> ##### :cyclone: 打将有
+> ##### :cyclone: 企业级软件系统开发运营推广
 > 
-> ##### :cyclone: 万种的啦
+> ##### :cyclone: 手机APP开发（限Android）
 > 
-> ##### :cyclone: 什么啊
+> ##### :cyclone: 网站搜索引擎优化、网站推广
 > 
-> ##### :cyclone: 好的吧
+> ##### :cyclone: 淘宝网店运营管理优化
 > 
-> ##### :cyclone: 你妹哈哈
+> ##### :cyclone: 软件基础培训(C#;java;JavaScript;html;css等)
 
 三、工作、盈利方式
 -----
