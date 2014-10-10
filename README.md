@@ -5,18 +5,15 @@
 
 一、团队成员
 -----
-    陈国瑞(Jerry) 超级软件架构师
-    
-    周德龙(Sunny) 高级软件工程师 
-    
-    徐昕冬(Tom)   高级软件工程师
-    
-    辛明明(Jacky) 高级软件工程师
-    
-    林波(Bob)     高级网站推广工程大师
-    
-    严功青(Pipi)  高级淘宝运营策划大神
 
+| 姓名  | 称谓 | 技能 | 个人资料 |
+| ------------- | ------------- | ------------- | ------------- |
+| 陈国瑞(Jerry)  | 超级软件架构师  | Content Cell  | Content Cell  |
+| 周德龙(Sunny)  | 高级软件工程师  | Content Cell  | Content Cell  |
+| 徐昕冬(Tom)  | 高级软件工程师  | Content Cell  | Content Cell  |
+| 辛明明(Jacky)  | 高级软件工程师  | Content Cell  | Content Cell  |
+| 林波(Bob)  | 高级网站推广工程大师  | Content Cell  | Content Cell  |
+| 严功青(Pipi)  | 高级淘宝运营策划大神  | Content Cell  | Content Cell  |
 
 二、业务范围
 -----
